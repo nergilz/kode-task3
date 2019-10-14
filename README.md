@@ -17,7 +17,7 @@
 ### блок-схема работы
 
 ```
-!!! ['блок-схема']()
+!!! ['блок-схема'](https://github.com/nergilz/kode-task3/blob/master/kode_task_3.jpg)
 ```
 
 ---
